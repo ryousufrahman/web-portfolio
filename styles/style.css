@@ -164,4 +164,47 @@ main section {
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06) ;
 }
 
+/*resume-container section style*/
+  
+
+
+.resume-container{
+    display: flex;
+    gap: 24px
+}
+
+.experience-description{
+    font-size: 16px;
+    color: #757575;
+}
+.experience-sub-title{
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.experience-title{
+    font-weight: bold;
+    color: #474747;
+    font-size: 25px;
+    margin-bottom: 5ppx;
+}
+
+.resume-column-title{
+    font-size: 30px;
+    font-weight: bold;
+    color:#474747 ;
+}
+hr{
+    margin: 30px 0px;
+}
+.section-title{
+    text-align: center;
+    margin-top: 180px;
+    margin-top: 120px;
+}
+.btn-hire-me{
+    text-align: center;
+    margin-top: 50px;
+}
 

@@ -208,3 +208,27 @@ hr{
     margin-top: 50px;
 }
 
+/*footer style*/
+footer{
+    display: flex;
+    gap: 100px;
+}
+
+.footer-colum{
+    padding: 130px 230px;
+    width: 50%;
+}
+.icon-im{
+    margin-right: 30px;
+}
+
+footer input[type="text"], footer input[type="email"], footer textarea{
+    width: 100%;
+    background-color:white;
+    border-radius: 5px;
+    height: 64px;
+    display: block;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+}
